@@ -48,7 +48,6 @@ def getNationalData():
         
 #######################################################################################
 
-
 def getCityData():    
     cities = ['Ahmadabad', 'Bangalore', 'Chennai', 'Delhi', 'Hyderabad', 'Jaipur', 'Mumbai', 'Thane', 'Indore', 'Jodhpur','Pune', 'Kasaragod']
     dtsetsuffix = {'date':'datetime','dwpt':'dewPtAvg10','relhum':'relHumAvg10','shum':'spcHumAvg10','temp':'tempAvg10'}
